@@ -1,0 +1,2 @@
+# UIDeviceHareware
+用于监测iOS具体的设备型号和硬件信息
